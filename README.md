@@ -1,18 +1,18 @@
+<h1 align="center">Olá! Eu sou o Lucas Martins 👋</h1>
+
+<p align="center">
+  Sou um entusiasta de bioengenharia com experiência em desenvolvimento Flutter e integração com o Firebase. Gosto de trabalhar em projetos inovadores e contribuir para a comunidade de código aberto.
+</p>
+
 <p align="center">
   <img height="200" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Martins-Lucaas&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="300" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Martins-Lucaas&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=15&hide=assembly,c,swig,jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Martins-Lucaas&theme=dark&hide_border=true&background=FFFFFF00">
   <br>
-  <small><b>Nota:</b> C+</small>
+  <br>
 </p>
 
-<!-- Adicione aqui a sua descrição -->
-<div align="center">
-  <p>
-    Sou um entusiasta em desenvolvimento de software com interesse em bioengenharia. Tenho experiência em trabalhar com diversas tecnologias e busco constantemente aprimorar minhas habilidades. Meu foco atual está em projetos que envolvem Flutter e Firebase, onde aplico conceitos de engenharia e programação para criar soluções inovadoras.
-  </p>
-</div>
-
+<h2 align="center">Linguagens e Ferramentas</h2>
 <div style="display: flex; justify-content: center;">
   <div style="display: inline-block; margin: 10px;">
     <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -37,7 +37,8 @@
   </div>
 </div>
 
-<div> 
-  <a href = "mailto:lucaspmartins14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<h2 align="center">Contato</h2>
+<div align="center"> 
+  <a href="mailto:lucaspmartins14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/martinsengbio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
