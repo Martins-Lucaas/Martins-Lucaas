@@ -1,14 +1,12 @@
 <h1 align="center">Olá! Eu sou o Lucas Martins 👋</h1>
 
 <p align="center">
-  Apaixonado pelo desenvolvimento de novas tecnologias, com foco em robótica, automação e saúde, busco construir uma carreira sólida e de destaque na área. Tenho como objetivo aplicar meu
-    conhecimento e habilidades para criar soluções inovadoras que possam impactar positivamente o setor e a sociedade. Aspiro ser uma referência em minha área de atuação, contribuindo com projetos
-       que impulsionem avanços tecnológicos e promovam eficiência e inovação
+  Sou um entusiasta de bioengenharia com experiência em desenvolvimento Flutter e integração com o Firebase. Gosto de trabalhar em projetos inovadores e contribuir para a comunidade de código aberto.
 </p>
 
 <p align="center">
   <img height="200" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Martins-Lucaas&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="300" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Martins-Lucaas&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=15&hide=assembly,c,swig,jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img height="300" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Martins-Lucaas&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=15&hide=assembly,c,swig,batchfile,jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Martins-Lucaas&theme=dark&hide_border=true&background=FFFFFF00">
   <br>
   <br>
