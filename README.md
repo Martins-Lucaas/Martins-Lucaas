@@ -3,8 +3,15 @@
   <img height="300" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Martins-Lucaas&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=15&hide=assembly,c,swig,jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Martins-Lucaas&theme=dark&hide_border=true&background=FFFFFF00">
   <br>
-  <br>
+  <small><b>Nota:</b> C+</small>
 </p>
+
+<!-- Adicione aqui a sua descrição -->
+<div align="center">
+  <p>
+    Sou um entusiasta em desenvolvimento de software com interesse em bioengenharia. Tenho experiência em trabalhar com diversas tecnologias e busco constantemente aprimorar minhas habilidades. Meu foco atual está em projetos que envolvem Flutter e Firebase, onde aplico conceitos de engenharia e programação para criar soluções inovadoras.
+  </p>
+</div>
 
 <div style="display: flex; justify-content: center;">
   <div style="display: inline-block; margin: 10px;">
