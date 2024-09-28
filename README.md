@@ -1,7 +1,9 @@
 <h1 align="center">Olá! Eu sou o Lucas Martins 👋</h1>
 
 <p align="center">
-  Sou um entusiasta de bioengenharia com experiência em desenvolvimento Flutter e integração com o Firebase. Gosto de trabalhar em projetos inovadores e contribuir para a comunidade de código aberto.
+  Apaixonado pelo desenvolvimento de novas tecnologias, com foco em robótica, automação e saúde, busco construir uma carreira sólida e de destaque na área. Tenho como objetivo aplicar meu
+    conhecimento e habilidades para criar soluções inovadoras que possam impactar positivamente o setor e a sociedade. Aspiro ser uma referência em minha área de atuação, contribuindo com projetos
+       que impulsionem avanços tecnológicos e promovam eficiência e inovação
 </p>
 
 <p align="center">
