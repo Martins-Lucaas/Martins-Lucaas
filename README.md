@@ -1,8 +1,7 @@
 <h1 align="center">Olá! Eu sou o Lucas Martins 👋</h1>
 
 <p align="center">
-  Apaixonado pelo desenvolvimento de novas tecnologias, com foco em robótica, automação e saúde, busco construir uma carreira sólida e de destaque na área. Tenho como objetivo aplicar meu conhecimento e habilidades para criar soluções inovadoras que possam impactar positivamente o setor e a sociedade. Aspiro ser uma referência em minha área de atuação, contribuindo com projetos que impulsionem avanços tecnológicos e promovam eficiência e inovação.
-</p>
+  Apaixonado pelo desenvolvimento de novas tecnologias, com foco em robótica, automação e saúde, busco construir uma carreira sólida e de destaque na área.
 
 <p align="center">
   <img height="200" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Martins-Lucaas&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
