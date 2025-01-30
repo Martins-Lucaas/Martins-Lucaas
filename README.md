@@ -2,10 +2,11 @@
 
 <p align="center">
   Apaixonado pelo desenvolvimento de novas tecnologias, com foco em robótica, automação e saúde, busco construir uma carreira sólida e de destaque na área.
+</p>
 
 <p align="center">
   <img height="200" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Martins-Lucaas&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="300" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Martins-Lucaas&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=14&hide=assembly,swig,batchfile,jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img height="300" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Martins-Lucaas&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=assembly,swig,batchfile,jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Martins-Lucaas&theme=dark&hide_border=true&background=FFFFFF00">
   <br>
   <br>
@@ -24,7 +25,6 @@
     <img align="center" alt="Lucas-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
     <img align="center" alt="Lucas-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="Lucas-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Lucas-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="Lucas-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img align="center" alt="Lucas-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
