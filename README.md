@@ -4,7 +4,7 @@
   Apaixonado pelo desenvolvimento de novas tecnologias, com foco em robótica, automação e saúde, busco construir uma carreira sólida e de destaque na área.
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="Martins-Lucaas" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Martins-Lucaas&show_icons=true&theme=gotham" alt="Martins-Lucaas" />
 
 <h2 align="center">Linguagens e Ferramentas</h2>
 <div align="center">
