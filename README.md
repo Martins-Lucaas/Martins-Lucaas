@@ -1,7 +1,12 @@
 <h1 align="center">Olá! Eu sou o Lucas Martins 👋</h1>
 
 <p align="center">
-  Apaixonado pelo desenvolvimento de novas tecnologias, com foco em robótica, automação e saúde, busco construir uma carreira sólida e de destaque na área.
+  🔧 Key technical skills:
+PCB design and manufacturing (Altium Designer)
+Embedded programming (C/C++ for ESP32, STM32)
+ROS/ROS2 and robotic simulation (Gazebo)
+Biomedical data acquisition and signal processing
+Integration of embedded systems with web/cloud applications
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Martins-Lucaas&show_icons=true&theme=gotham&include_all_commits=true" alt="Martins-Lucaas" />
