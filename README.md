@@ -72,11 +72,3 @@
     alt="Top Languages"
   />
 </p>
-
----
-
-## ✉️ Contato
-<p align="center">
-  <a href="mailto:lucaspmartins14@gmail.com"><b>Gmail</b></a> •
-  <a href="https://www.linkedin.com/in/martinsengbio/" target="_blank"><b>LinkedIn</b></a>
-</p>
