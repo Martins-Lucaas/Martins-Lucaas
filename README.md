@@ -13,29 +13,6 @@
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Martins-Lucaas&label=Visits&style=flat">
 </p>
 
----
-
-## 🔧 Principais habilidades (hands-on)
-- **PCB design & manufatura**: Altium Designer (placas para sensores/atuadores)
-- **Embarcados**: C/C++ (ESP32, STM32), FreeRTOS, drivers, IMUs, EMG
-- **Robótica**: ROS/ROS2, URDF, Gazebo/Webots, teleoperação, controle
-- **Sinais biomédicos**: aquisição, filtros (SG, média móvel), CMC/EEG/EMG
-- **Integração cloud/web**: APIs, WebSocket, Flutter, FastAPI, RAG (Qdrant)
-
----
-
-## 🧪 Projetos em destaque
-> *Clique nos pins abaixo (repos fixados) para ver código, arquitetura e resultados.*
-
-- **Teleoperação de Garra Robótica**: EMG + IMU → controle em tempo real (ESP32 + Flutter)
-- **RAG Acadêmico**: FastAPI + Qdrant + LLM para busca/answer de sites universitários
-- **Simulação UR5e/UR10**: ROS2 + Webots, detecção de cores e pipeline modular
-- **Monitoramento Clínico**: app Flutter + Firebase (rondas, QR, assinatura, gráficos)
-
-> Dica: fixe 6 repositórios chave no topo do seu perfil para guiar quem chega.
-
----
-
 ## 🧰 Stack atual (por áreas)
 
 **Embarcados**
