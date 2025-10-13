@@ -80,13 +80,3 @@
   <a href="mailto:lucaspmartins14@gmail.com"><b>Gmail</b></a> •
   <a href="https://www.linkedin.com/in/martinsengbio/" target="_blank"><b>LinkedIn</b></a>
 </p>
-
----
-
-<details>
-  <summary>💡 Extras (mostrar/ocultar)</summary>
-
-- **Artigos/relatórios**: anexos de IEEE/ABNT e notebooks (EEG/EMG, CMC)
-- **Demonstrações**: GIFs curtos de teleoperação e simulações
-- **Roadmap**: próximos passos (ex.: feedback háptico, IA no controle, etc.)
-</details>
