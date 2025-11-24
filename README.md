@@ -9,9 +9,7 @@
   </a>
   <a href="https://www.linkedin.com/in/martinsengbio/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-martinsengbio-0A66C2?logo=linkedin&logoColor=white">
-  </a>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Martins-Lucaas&label=Visits&style=flat">
-</p>
+  </a></p>
 
 ## 🧰 Stack atual (por áreas)
 
