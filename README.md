@@ -11,51 +11,6 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-martinsengbio-0A66C2?logo=linkedin&logoColor=white">
   </a></p>
 
-## 🧰 Stack atual (por áreas)
-
-**Embarcados**
-<p>
-  <img alt="C" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img alt="C++" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img alt="ESP32" height="28" src="https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white">
-  <img alt="STM32" height="28" src="https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white">
-  <img alt="Altium" height="28" src="https://img.shields.io/badge/Altium%20Designer-AC8E2D?logo=altiumdesigner&logoColor=white">
-</p>
-
-**Robótica & Simulação**
-<p>
-  <img alt="ROS" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg">
-  <img alt="Gazebo" height="28" src="https://img.shields.io/badge/Gazebo-FF7400?logo=gazebo&logoColor=white">
-  <img alt="Webots" height="28" src="https://img.shields.io/badge/Webots-20C997?logo=webots&logoColor=white">
-</p>
-
-**Back/ML & Dados**
-<p>
-  <img alt="Python" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="FastAPI" height="28" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
-  <img alt="Qdrant" height="28" src="https://img.shields.io/badge/Qdrant-FF4D4D?logo=qdrant&logoColor=white">
-  <img alt="PyTorch" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
-  <img alt="NumPy" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-</p>
-
-**Frontend & Mobile**
-<p>
-  <img alt="Flutter" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img alt="Dart" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img alt="React" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="HTML5" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="NodeJS" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</p>
-
-**DevOps & Outros**
-<p>
-  <img alt="Linux" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img alt="Git" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img alt="MySQL" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</p>
-
----
-
 ## 📊 Estatísticas
 <p align="center">
   <img
