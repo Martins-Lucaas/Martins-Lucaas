@@ -12,17 +12,14 @@
   </a>
 </p>
 
+---
+
 ## 📊 Estatísticas
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Martins-Lucaas&show_icons=true&theme=gotham&include_all_commits=true"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Martins-Lucaas&theme=gotham" alt="Resumo do GitHub" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martins-Lucaas&layout=compact&theme=gotham&langs_count=14&hide=assembly,C,swig,batchfile"
-    alt="Top Languages"
-  />
+  <img src="https://metrics.lecoq.io/Martins-Lucaas?template=classic" alt="Métricas do GitHub" />
 </p>
